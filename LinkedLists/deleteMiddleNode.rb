@@ -3,3 +3,8 @@
 # Example
 # Input: the node c from the linked list a->b->c->d->e->f
 # Result: nothing is return, but the new linked list looks like a->b->d->e->f
+
+
+def deleteMiddleNode(c)
+    
+end
