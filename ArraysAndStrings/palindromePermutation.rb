@@ -3,3 +3,7 @@
 # Example
 # Input: Tact Coa
 # Output: True (permutations: "taco cat", "atco cta", etc.)
+
+def palindromePermutation
+
+end
